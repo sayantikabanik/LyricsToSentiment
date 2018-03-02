@@ -1,6 +1,6 @@
 LyricsToSentiment
 ===================
-**_FUN PROJECT_**
+### FUN PROJECT
 The application is a simple implementation,for extracting the music albums from web and performing sentimental 
 analysis on the same. The code is lucid and easy to scale up.
 
