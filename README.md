@@ -19,4 +19,4 @@ $ python lyrics.py
 ```
 ## OUTPUT 
 
-<img src="https://github.com/sayantikabanik/LyricsToSentiment/blob/master/lyrics.png" alt="loading" height="300" width="500"/>
+<img src="https://github.com/sayantikabanik/LyricsToSentiment/blob/master/lyrics.png" alt="loading" />
